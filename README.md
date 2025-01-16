@@ -6,6 +6,7 @@ This repository contains a Python-based implementation of a genetic algorithm (G
 The program also includes a random and greedy algorithm, for comparison on the efficiency of the algorithms. Included within the .zip file is a report submitted to Northumbria University for the results of this program and module. Additionally, a .xlsx file is included containing the outputs and some diagrams from the results exported by this program.
 
 **Circle Packing Problem**
+
 From Wikipedia, "Circle packing is the study of the arrangement of circles (of equal or varying sizes) on a given surface such that no overlapping occurs and so that no circle can be enlarged without creating an overlap. The associated packing density, η, of an arrangement is the proportion of the surface covered by the circles."
 
 **Features**
@@ -19,6 +20,7 @@ From Wikipedia, "Circle packing is the study of the arrangement of circles (of e
 - Configurable Parameters: Easily adjust parameters such as population size, mutation rate, and number of generations.
 
 **Controls**
+
 Use the Up and Down arrow keys to switch algorithms in the order;
 Random -> Genetic -> Greedy
 When on Random, pressing the down arrow will refresh the algorithm and provide a new random solution
@@ -26,11 +28,13 @@ When on Random, pressing the down arrow will refresh the algorithm and provide a
 Use the Left and Right arrow keys to switch between problems.
 
 **DISCLAIMER**
+
 Genetic Algorithms can be lengthy and resource intensive, and as such, results may vary in relation to time taken. If the program becomes unresponsive during a GA test, please understand it has not crashed, and is running in the background for a solution. More complex problems may take a great deal of time (ie minutes, or upward of an hour for the more complex cases)
 
 To close the algorithm, stop it within the Processing UI, and run it again.
 
 **Best Found Solutions**
+
 R1:
 
 ![Image](https://github.com/user-attachments/assets/e516c267-f460-4c61-80ef-5c3c8aa91890)
