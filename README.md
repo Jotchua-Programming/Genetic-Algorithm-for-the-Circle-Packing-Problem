@@ -32,31 +32,41 @@ To close the algorithm, stop it within the Processing UI, and run it again.
 
 **Best Found Solutions**
 R1:
+
 ![Image](https://github.com/user-attachments/assets/e516c267-f460-4c61-80ef-5c3c8aa91890)
 
 R2:
+
 ![Image](https://github.com/user-attachments/assets/f95aa66d-6058-477f-b765-290082028404)
 
 R3:
+
 ![Image](https://github.com/user-attachments/assets/163a83df-8f80-4470-90c0-09185cf33d74)
 
 R4:
+
 ![Image](https://github.com/user-attachments/assets/c53dcf6b-85bd-4f3d-b3cf-d3977b9057fc)
 
 R5:
+
 ![Image](https://github.com/user-attachments/assets/67d8922f-4d9e-4550-9f6c-c1a0a9e42caf)
 
 T1:
+
 ![Image](https://github.com/user-attachments/assets/43850079-038d-4402-af09-0c8d42ee43d2)
 
 T2:
+
 ![Image](https://github.com/user-attachments/assets/a9a62e47-f8ef-4d34-9405-a4a15cf9f1bc)
 
 T3:
+
 ![Image](https://github.com/user-attachments/assets/66492c8e-7b49-4a5d-a10c-ddd3a341349f)
 
 T4:
+
 ![Image](https://github.com/user-attachments/assets/fdfd28c7-1ce7-49fa-8e08-cd6b66caabec)
 
 T5:
+
 ![Image](https://github.com/user-attachments/assets/23e4611a-03fd-45eb-aa73-35cc2625f28b)
