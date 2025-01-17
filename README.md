@@ -1,7 +1,7 @@
 # Genetic-Algorithm-for-the-Circle-Packing-Problem
 **Genetic Algorithm for the Circle Packing Problem**
 
-This repository contains a Python-based implementation of a genetic algorithm (GA) using Processing designed to address the circle packing problem. The goal of this algorithm is to optimize the arrangement of irregularly sized circles within a confined circular container such that the circles do not overlap and space utilization is maximized.
+This repository contains a Java-Based implementation of a genetic algorithm (GA) using Processing designed to address the circle packing problem. The goal of this algorithm is to optimize the arrangement of irregularly sized circles within a confined circular container such that the circles do not overlap and space utilisation is maximized.
 
 The program also includes a random and greedy algorithm, for comparison on the efficiency of the algorithms. Included within the .zip file is a report submitted to Northumbria University for the results of this program and module. Additionally, a .xlsx file is included containing the outputs and some diagrams from the results exported by this program.
 
@@ -15,7 +15,7 @@ From Wikipedia, "Circle packing is the study of the arrangement of circles (of e
 
 - Tournament Selection: Utilizes a robust tournament selection mechanism to balance exploration and exploitation during evolution.
 
-- Visualization: Includes tools to visualize circle packing solutions, making it easier to evaluate results.
+- Visualisation: Includes tools to visualise circle packing solutions, making it easier to evaluate results.
 
 - Configurable Parameters: Easily adjust parameters such as population size, mutation rate, and number of generations.
 
